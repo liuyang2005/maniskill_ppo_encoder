@@ -1,0 +1,7 @@
+env,encoder,aug,seed,final_success,sps,enc_params_M
+PushCube-v1,impala,aug,1,1.0,988.0,0.4
+PushCube-v1,impala,noaug,1,1.0,962.0,0.4
+PushCube-v1,impala,noaug,1,1.0,962.0,0.4
+PushCube-v1,nature,noaug,1,1.0,2194.0,0.15
+PushCube-v1,resnet18,noaug,1,0.5,1299.0,0.14
+PushCube-v1,smallvit,noaug,1,0.0,1036.0,0.47

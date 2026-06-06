@@ -1,0 +1,16 @@
+# 私人文档（不上传）
+面试备战_仅供本人.md
+
+# 训练日志（体积大，按需保留 figures 即可）
+runs/
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pt
+
+# 临时文件
+/tmp/
+.DS_Store
+简历条目.md
