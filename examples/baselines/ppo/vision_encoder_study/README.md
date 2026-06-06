@@ -4,9 +4,9 @@
 >
 > 基于 [ManiSkill](https://github.com/haosulab/ManiSkill) 仿真平台与 PPO 算法
 >
-> 作者：Adrian ｜ 本项目基于官方 ManiSkill 仓库 fork 开发，代码位于 `examples/baselines/ppo/vision_encoder_study/`
+> 本项目基于官方 ManiSkill 仓库 fork 开发，代码位于 `examples/baselines/ppo/vision_encoder_study/`
 
-在单张 6GB 消费级 GPU 的算力约束下，系统对比不同视觉编码器（CNN / ViT / 预训练 ResNet）在机器人操作任务上的样本效率、成功率与训练开销；进一步诊断轻量 Vision Transformer 的失效成因，提出改进并通过消融验证。
+在单张消费级 GPU 的算力约束下，系统对比不同视觉编码器（CNN / ViT / 预训练 ResNet）在机器人操作任务上的样本效率、成功率与训练开销；进一步诊断轻量 Vision Transformer 的失效成因，提出改进并通过消融验证。
 
 本项目改编自官方 `examples/baselines/ppo/ppo_rgb.py`，所有改动均带 `# [STUDY]` 标注，自包含于本目录，不修改 ManiSkill 源码。
 
