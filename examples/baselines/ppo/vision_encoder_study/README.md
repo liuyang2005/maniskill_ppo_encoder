@@ -1,4 +1,4 @@
-# 小算力约束下视觉编码器对机器人操作强化学习的影响研究
+# 基于ManiSkill的视觉编码器对机器人操作强化学习的影响研究
 
 > A Study of Vision Encoders for Robotic Manipulation RL under Limited Compute
 >
